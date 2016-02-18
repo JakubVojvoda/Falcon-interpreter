@@ -8,7 +8,7 @@
 ################################################################################
 
 # Make settings
-PROG=build/ifalcon
+PROG=falcon-interpreter
 
 CC=gcc
 CFLAGS=-std=c99 -Wall -Wextra -pedantic
